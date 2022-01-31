@@ -1,16 +1,16 @@
-# Zima
+# Lil' Snappy
 
-![Zima](https://cdn.shopify.com/s/files/1/0227/9171/6941/products/Zima_Clear_Side.jpg?v=1596531772)
+![Lil' Snappy](https://cdn.shopify.com/s/files/1/0227/9171/6941/products/Zima_Clear_Side.jpg?v=1596531772)
 
-A feature-packed twelve key macropad the size of a creditcard.
+A 3x4 macropad with 3x rotary encoders, hotswap sockets, and LEDs. 
 
-* Keyboard Maintainer: [Thomas Baart](https://github.com/splitkb)
-* Hardware Supported: Onboard ATmega32u4 with speaker, encoder, RGB underglow, OLED and haptic support, with a Type C connector
-* Hardware Availability: [splitkb.com](https://splitkb.com/collections/keyboard-kits/products/zima)
+* Keyboard Maintainer: [OhKeycaps](https://github.com/Oh-Keycaps)
+* Hardware Supported: Onboard ATmega32u4 w/  encoders, RGB underglow, with a Type C connector
+* Hardware Availability: TBD
 
 Make example for this keyboard (after setting up your build environment):
 
-    make splitkb/zima:default
+    make ohkeycaps/lil-snappy:default
     
 Keyboard can be put into bootloader mode by pressing the button to the right of the USB port on the underside of the PCB.
 
